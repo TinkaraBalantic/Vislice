@@ -3,6 +3,7 @@
 ## Avtorji
 
 * Tinkara Balantič
+* Adi Smolar
 * Anja Petković
 * Matija Pretnar
 
