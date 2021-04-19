@@ -2,8 +2,7 @@
 
 ## Avtorji
 
-* Tinkara Balantič
-* Adi Smolar
+* Tinkara Balantič1
 * Anja Petković
 * Matija Pretnar
 
