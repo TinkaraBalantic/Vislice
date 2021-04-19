@@ -2,7 +2,7 @@
 
 ## Avtorji
 
-* Tinkara Balantič
+* Tinkara Balantič1
 * Anja Petković
 * Matija Pretnar
 
